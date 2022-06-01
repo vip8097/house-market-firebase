@@ -1,8 +1,0 @@
-geocode-api= AIzaSyAlsxp8CDXxMuDY3FmSykTN7w0a1bZ7t-s
-
-
-npm i uuid 
-// swipper
-2.npm i swiper
-
-npm i react-helmet
